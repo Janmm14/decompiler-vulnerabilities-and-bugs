@@ -14,9 +14,9 @@ They are,
 
 ## Format
 
-DVB entries should contain an ID, description, and information for individual decompilers.
-The entries for decompilers should contain a description on how the decompiler fails, a DVSS score, and a patch date if one exists.
-In the tests folder you may find specific test cases which will cause the error. The test files can be assembled using Krakatau's assembler.
+DVB entries should contain an ID, description, and information for individual decompilers.  
+The entries for decompilers should contain a description on how the decompiler fails, a DVSS score, and a patch date if one exists.  
+In the tests folder you may find specific test cases which will cause the error. The test files can be assembled using Krakatau's assembler.  
 
 ## Scoring
 
